@@ -1,0 +1,271 @@
+Company,Industry,Revenue_Cr,EBITDA_Margin,Debt_Cr,Country
+Reliance Industries,Energy,120000,18,35000,India
+Tata Consultancy Services,Tech,250000,25,5000,India
+Infosys,Tech,180000,24,2000,India
+HDFC Bank,Banking,190000,30,12000,India
+Bharti Airtel,Telecom,140000,20,80000,India
+ITC,Consumer,70000,35,15000,India
+ICICI Bank,Banking & Financial Services,"17,075",42.3,0,India
+State Bank of India,Banking & Financial Services,"4,04,000",38.7,0,India
+Larsen & Toubro,Engineering & Construction,"2,22,023",12.3,"15,620",India
+Axis Bank,Banking & Financial Services,"1,13,074",41.5,0,India
+Kotak Mahindra Bank,Banking & Financial Services,"63,562",43.2,0,India
+Wipro,IT Services,"90,487",17.8,"3,200",India
+HCL Technologies,IT Services,"1,04,057",19.4,"2,100",India
+Bajaj Finance,NBFC,"55,921",58.3,"2,17,000",India
+Titan Company,Consumer Goods / Retail,"52,441",11.8,"1,200",India
+Asian Paints,Paints & Coatings,"36,163",18.9,340,India
+Maruti Suzuki,Automobile,"1,40,766",11.2,0,India
+Sun Pharmaceuticals,Pharmaceuticals,"45,280",26.3,"4,100",India
+Bharti Airtel,Telecom,"1,49,982",51.2,"1,95,000",India
+Tata Steel,Metals & Mining,"2,29,171",10.4,"87,540",India
+JSW Steel,Metals & Mining,"1,73,439",12.6,"65,800",India
+Power Grid Corporation,Utilities / Power,"47,147",86.2,"1,43,500",India
+NTPC,Utilities / Power,"1,84,580",22.4,"2,14,700",India
+Oil & Natural Gas Corporation,Oil & Gas,"6,22,620",20.1,"58,300",India
+Coal India,Mining / Energy,"1,41,872",23.8,0,India
+Adani Enterprises,Conglomerate,"99,628",8.7,"46,200",India
+Adani Ports,Infrastructure / Logistics,"26,118",62.3,"43,700",India
+Adani Green Energy,Renewable Energy,"10,934",90.1,"56,200",India
+Tata Motors,Automobile,"4,40,522",9.3,"1,01,200",India
+Mahindra & Mahindra,Automobile / Conglomerate,"1,35,279",13.7,"19,400",India
+Bajaj Auto,Automobile,"44,664",20.5,0,India
+Hero MotoCorp,Automobile,"38,869",14.1,0,India
+Ultratech Cement,Cement & Construction,"67,079",22.1,"12,300",India
+Grasim Industries,Diversified / Cement,"1,34,220",18.6,"39,800",India
+Hindalco Industries,Metals / Aluminium,"2,15,530",9.8,"47,900",India
+Vedanta,Mining / Metals,"1,43,544",27.3,"62,100",India
+Dr. Reddy's Laboratories,Pharmaceuticals,"27,085",23.6,"3,800",India
+Cipla,Pharmaceuticals,"25,772",22.1,"1,200",India
+Divi's Laboratories,Pharmaceuticals / API,"8,066",33.4,0,India
+Zomato,Food Tech / Delivery,"12,114",5.2,0,India
+Paytm (One97 Communications),Fintech,"9,978",-22.4,600,India
+Nykaa (FSN E-Commerce),E-Commerce / Beauty,"6,386",5.7,250,India
+Interglobe Aviation (IndiGo),Aviation,"57,996",16.8,"36,200",India
+Godrej Consumer Products,FMCG,"14,273",18.2,"3,400",India
+Dabur India,FMCG / Ayurveda,"12,404",19.6,450,India
+Marico,FMCG,"9,764",18.8,0,India
+Pidilite Industries,Specialty Chemicals,"11,737",22.3,200,India
+Havells India,Consumer Electricals,"18,143",12.6,0,India
+Voltas,Engineering / Cooling,"11,768",7.4,0,India
+Page Industries,Apparel / Innerwear,"4,727",21.3,0,India
+Bank of Baroda,Banking & Financial Services,"1,18,400",37.2,0,India
+Punjab National Bank,Banking & Financial Services,"1,09,200",35.8,0,India
+Canara Bank,Banking & Financial Services,"97,300",36.1,0,India
+IndusInd Bank,Banking & Financial Services,"50,120",40.3,0,India
+Federal Bank,Banking & Financial Services,"22,840",38.7,0,India
+IDFC First Bank,Banking & Financial Services,"30,210",32.4,0,India
+Yes Bank,Banking & Financial Services,"28,760",29.6,0,India
+RBL Bank,Banking & Financial Services,"13,450",27.3,0,India
+Bank of India,Banking & Financial Services,"78,900",34.5,0,India
+Union Bank of India,Banking & Financial Services,"89,600",35.1,0,India
+Shriram Finance,NBFC,"34,210",52.1,"1,78,000",India
+Muthoot Finance,NBFC,"14,870",55.3,"58,400",India
+Cholamandalam Investment,NBFC,"18,940",48.6,"1,03,200",India
+L&T Finance,NBFC,"14,320",44.2,"87,600",India
+Manappuram Finance,NBFC,"8,760",50.4,"32,100",India
+Aditya Birla Capital,NBFC,"33,400",41.8,"1,45,000",India
+Mahindra Finance,NBFC,"16,200",46.3,"82,500",India
+Piramal Enterprises,NBFC,"12,800",38.7,"41,200",India
+Five Star Business Finance,NBFC,"3,240",57.2,"14,800",India
+CreditAccess Grameen,NBFC,"4,120",53.6,"18,900",India
+Tech Mahindra,IT Services,"53,760",11.2,"4,800",India
+Mphasis,IT Services,"14,210",16.8,800,India
+LTIMindtree,IT Services,"36,140",17.3,0,India
+Persistent Systems,IT Services,"10,230",15.6,0,India
+Coforge,IT Services,"9,870",14.2,"2,100",India
+Hexaware Technologies,IT Services,"11,400",15.8,"1,600",India
+Zensar Technologies,IT Services,"5,430",13.4,0,India
+Sonata Software,IT Services,"7,620",12.1,0,India
+KPIT Technologies,IT Services,"5,280",18.6,300,India
+Tata Elxsi,IT Services,"3,840",29.4,0,India
+Lupin,Pharmaceuticals,"19,840",18.4,"5,200",India
+Aurobindo Pharma,Pharmaceuticals,"28,730",16.7,"8,100",India
+Torrent Pharmaceuticals,Pharmaceuticals,"10,890",27.3,"7,400",India
+Alkem Laboratories,Pharmaceuticals,"13,240",19.8,600,India
+Biocon,Pharmaceuticals,"15,620",21.2,"18,700",India
+Glenmark Pharmaceuticals,Pharmaceuticals,"13,980",15.6,"7,200",India
+Ipca Laboratories,Pharmaceuticals,"7,640",18.9,"1,800",India
+Abbott India,Pharmaceuticals,"7,120",22.4,0,India
+Natco Pharma,Pharmaceuticals,"4,230",31.6,800,India
+Granules India,Pharmaceuticals,"4,870",17.3,"2,100",India
+Ashok Leyland,Automobile,"40,230",10.8,"8,600",India
+Eicher Motors,Automobile,"16,840",26.3,0,India
+TVS Motor Company,Automobile,"35,210",11.4,"3,200",India
+Bosch India,Automobile,"16,430",13.2,0,India
+MRF,Automobile / Tyres,"27,640",14.6,"1,200",India
+Apollo Tyres,Automobile / Tyres,"24,870",15.3,"8,900",India
+Motherson Sumi,Automobile Components,"82,400",8.7,"18,700",India
+Bharat Forge,Automobile Components,"15,320",20.1,"6,400",India
+Exide Industries,Automobile Components,"15,680",11.8,"1,100",India
+Balkrishna Industries,Automobile / Tyres,"10,230",26.4,"2,800",India
+Nestle India,FMCG,"20,486",23.1,0,India
+Britannia Industries,FMCG,"16,820",17.4,"2,100",India
+Colgate-Palmolive India,FMCG,"6,240",28.3,0,India
+Emami,FMCG / Ayurveda,"4,210",27.6,"2,800",India
+Godrej Industries,FMCG / Conglomerate,"22,400",9.8,"12,600",India
+Jyothy Labs,FMCG,"2,980",16.4,0,India
+P&G Hygiene,FMCG,"4,360",24.7,0,India
+Varun Beverages,FMCG / Beverages,"18,640",19.2,"9,800",India
+United Breweries,FMCG / Beverages,"8,920",14.3,"2,400",India
+United Spirits,FMCG / Beverages,"11,230",18.6,"1,200",India
+Steel Authority of India,Metals & Mining,"1,01,200",8.4,"38,700",India
+National Aluminium Company,Metals & Mining,"16,840",21.3,0,India
+Jindal Steel & Power,Metals & Mining,"54,320",18.7,"28,400",India
+APL Apollo Tubes,Metals & Mining,"18,930",7.8,"3,200",India
+Ratnamani Metals,Metals & Mining,"4,870",14.6,400,India
+Welspun Corp,Metals & Mining,"12,340",11.2,"4,800",India
+Mishra Dhatu Nigam,Metals & Mining,"1,840",22.1,0,India
+NMDC,Metals & Mining,"22,640",48.3,0,India
+Hindustan Zinc,Metals & Mining,"32,140",49.7,"3,200",India
+Shyam Metalics,Metals & Mining,"13,240",10.8,"2,800",India
+Bharat Petroleum,Oil & Gas,"4,92,300",4.2,"28,700",India
+Hindustan Petroleum,Oil & Gas,"4,62,100",3.8,"32,400",India
+Indian Oil Corporation,Oil & Gas,"8,72,400",4.6,"87,600",India
+Castrol India,Oil & Gas,"5,640",22.4,0,India
+Gujarat Gas,Oil & Gas,"16,320",12.8,"2,100",India
+Indraprastha Gas,Oil & Gas,"15,840",18.6,0,India
+Mahanagar Gas,Oil & Gas,"7,230",24.3,0,India
+Gujarat State Petronet,Oil & Gas,"3,840",67.2,"4,200",India
+Petronet LNG,Oil & Gas,"57,600",9.3,"4,800",India
+Chennai Petroleum,Oil & Gas,"72,400",3.1,"8,700",India
+Adani Power,Utilities / Power,"52,340",38.7,"1,32,400",India
+Tata Power,Utilities / Power,"58,230",18.4,"68,700",India
+JSW Energy,Utilities / Power,"12,840",52.3,"28,400",India
+Torrent Power,Utilities / Power,"18,640",24.6,"14,200",India
+CESC,Utilities / Power,"14,230",21.8,"8,900",India
+NHPC,Utilities / Power,"10,840",71.3,"34,200",India
+SJVN,Utilities / Power,"3,240",75.6,"12,800",India
+Kalpataru Power,Utilities / Power,"18,430",8.6,"7,200",India
+KEC International,Utilities / Power,"19,870",7.4,"6,800",India
+Suzlon Energy,Renewable Energy,"8,640",18.3,"12,400",India
+Adani Total Gas,Renewable Energy,"5,840",32.4,"8,700",India
+Greenko Energy,Renewable Energy,"7,230",78.4,"42,100",India
+ReNew Power,Renewable Energy,"9,840",72.6,"38,700",India
+Sterling & Wilson,Renewable Energy,"6,240",6.8,"3,200",India
+Waaree Energies,Renewable Energy,"11,230",14.3,"2,800",India
+Premier Energies,Renewable Energy,"3,240",12.6,"1,400",India
+Websol Energy,Renewable Energy,980,16.4,600,India
+Insolation Energy,Renewable Energy,"1,240",13.8,400,India
+Borosil Renewables,Renewable Energy,"1,640",18.2,800,India
+CESC Ventures,Renewable Energy,"2,840",22.4,"3,200",India
+Bharat Heavy Electricals,Engineering & Construction,"28,640",4.2,"4,200",India
+Siemens India,Engineering & Construction,"18,430",12.4,0,India
+ABB India,Engineering & Construction,"11,240",13.8,0,India
+Thermax,Engineering & Construction,"9,870",9.6,600,India
+Cummins India,Engineering & Construction,"9,230",17.3,0,India
+NCC,Engineering & Construction,"18,640",7.8,"3,800",India
+Ashoka Buildcon,Engineering & Construction,"8,240",12.3,"4,200",India
+IRB Infrastructure,Engineering & Construction,"7,840",62.4,"18,700",India
+PNC Infratech,Engineering & Construction,"8,430",11.6,"2,100",India
+G R Infraprojects,Engineering & Construction,"8,640",14.2,"2,800",India
+Container Corporation,Infrastructure / Logistics,"9,840",28.4,0,India
+Blue Dart Express,Infrastructure / Logistics,"5,640",14.6,400,India
+Delhivery,Infrastructure / Logistics,"8,240",2.4,"1,200",India
+Mahindra Logistics,Infrastructure / Logistics,"5,430",4.8,800,India
+VRL Logistics,Infrastructure / Logistics,"3,240",12.4,"1,200",India
+TCI Express,Infrastructure / Logistics,"1,840",18.6,0,India
+Gateway Distriparks,Infrastructure / Logistics,"2,640",22.4,"1,800",India
+Allcargo Logistics,Infrastructure / Logistics,"14,230",6.4,"3,200",India
+Aegis Logistics,Infrastructure / Logistics,"8,640",8.7,"2,100",India
+Navkar Corporation,Infrastructure / Logistics,"1,240",38.4,"1,800",India
+Bajaj Holdings,Conglomerate,"12,840",82.4,0,India
+Mahindra CIE Automotive,Conglomerate,"6,240",13.8,"2,100",India
+3M India,Conglomerate,"4,230",16.4,0,India
+Honeywell Automation,Conglomerate,"4,840",18.2,0,India
+Esab India,Conglomerate,"1,640",19.6,0,India
+Kirloskar Brothers,Conglomerate,"4,230",10.8,"1,200",India
+Max Financial Services,Conglomerate,"28,640",6.2,"4,200",India
+Tata Investment Corporation,Conglomerate,"3,240",88.4,0,India
+Bombay Burmah Trading,Conglomerate,"4,840",12.6,"2,800",India
+Kesoram Industries,Conglomerate,"3,240",8.4,"4,200",India
+Info Edge (Naukri),Internet / Tech,"3,240",32.4,0,India
+PB Fintech (PolicyBazaar),Fintech,"4,230",4.8,0,India
+Nazara Technologies,Gaming / Tech,"1,240",12.6,200,India
+Indiamart Intermesh,Internet / B2B,"1,340",38.6,0,India
+CarTrade Tech,Internet / Auto,480,8.4,0,India
+Just Dial,Internet / Local,980,24.6,0,India
+EaseMyTrip,Travel Tech,640,28.4,200,India
+RateGain Travel Tech,Travel Tech,840,16.4,400,India
+Swiggy,Food Tech / Delivery,"11,247",3.1,"1,200",India
+Zaggle Prepaid,Fintech,980,14.6,200,India
+ACC,Cement & Construction,"20,840",15.6,"1,200",India
+Ambuja Cements,Cement & Construction,"32,640",17.4,"4,200",India
+Shree Cement,Cement & Construction,"18,640",22.3,"3,800",India
+Dalmia Bharat,Cement & Construction,"14,230",19.8,"8,700",India
+JK Cement,Cement & Construction,"11,840",18.4,"4,200",India
+Birla Corporation,Cement & Construction,"9,840",16.8,"6,800",India
+India Cements,Cement & Construction,"6,840",12.4,"7,200",India
+Orient Cement,Cement & Construction,"3,840",14.6,"2,800",India
+HeidelbergCement India,Cement & Construction,"3,240",18.2,"1,200",India
+Sagar Cements,Cement & Construction,"2,640",16.8,"2,100",India
+SRF,Specialty Chemicals,"14,230",21.4,"6,800",India
+Deepak Nitrite,Specialty Chemicals,"7,840",18.6,"1,200",India
+Aarti Industries,Specialty Chemicals,"7,240",17.3,"4,800",India
+Navin Fluorine,Specialty Chemicals,"2,640",22.4,800,India
+Gujarat Fluorochemicals,Specialty Chemicals,"4,230",28.6,"1,800",India
+Vinati Organics,Specialty Chemicals,"2,140",26.4,200,India
+Alkyl Amines Chemicals,Specialty Chemicals,"1,840",22.8,400,India
+Sudarshan Chemical,Specialty Chemicals,"2,840",14.6,"1,200",India
+Fine Organic Industries,Specialty Chemicals,"1,840",18.4,200,India
+Galaxy Surfactants,Specialty Chemicals,"4,230",12.6,800,India
+Oracle Financial Services,IT Services,"6,840",38.4,0,India
+Mastek,IT Services,"3,240",14.6,400,India
+Cyient,IT Services,"7,240",14.2,800,India
+Happiest Minds,IT Services,"1,840",18.6,0,India
+Birlasoft,IT Services,"5,430",15.3,200,India
+Newgen Software,IT Services,"1,640",22.4,0,India
+Intellect Design Arena,IT Services,"2,840",16.8,600,India
+Tanla Platforms,IT Services,"3,640",24.6,0,India
+Rategain Travel Tech,IT Services,840,16.4,400,India
+Latent View Analytics,IT Services,680,28.4,0,India
+Nucleus Software,IT Services,680,32.6,0,India
+Majesco,IT Services,420,18.4,0,India
+Sasken Technologies,IT Services,640,16.2,0,India
+Kellton Tech,IT Services,480,12.4,200,India
+Saksoft,IT Services,320,14.8,100,India
+FSL Software Technologies,IT Services,180,16.2,0,India
+Datamatics Global,IT Services,"1,240",13.6,200,India
+E2E Networks,IT Services / Cloud,240,22.4,100,India
+Zaggle Prepaid Ocean,Fintech / IT,980,14.6,200,India
+Tata Technologies,IT Services,"4,840",16.8,0,India
+GAIL India,Oil & Gas / Energy,"1,36,840",11.2,"18,700",India
+Oil India,Oil & Gas / Energy,"32,640",38.4,"12,400",India
+Indraprastha Gas,Oil & Gas / Energy,"15,840",18.6,0,India
+Gujarat Gas,Oil & Gas / Energy,"16,320",12.8,"2,100",India
+Mahanagar Gas,Oil & Gas / Energy,"7,230",24.3,0,India
+Gujarat State Petronet,Oil & Gas / Energy,"3,840",67.2,"4,200",India
+Petronet LNG,Oil & Gas / Energy,"57,600",9.3,"4,800",India
+CESC,Utilities / Energy,"14,230",21.8,"8,900",India
+Torrent Power,Utilities / Energy,"18,640",24.6,"14,200",India
+Tata Power,Utilities / Energy,"58,230",18.4,"68,700",India
+JSW Energy,Utilities / Energy,"12,840",52.3,"28,400",India
+NHPC,Utilities / Energy,"10,840",71.3,"34,200",India
+SJVN,Utilities / Energy,"3,240",75.6,"12,800",India
+Adani Green Energy,Renewable Energy,"10,934",90.1,"56,200",India
+Greenko Energy,Renewable Energy,"7,230",78.4,"42,100",India
+ReNew Power,Renewable Energy,"9,840",72.6,"38,700",India
+Waaree Energies,Renewable Energy,"11,230",14.3,"2,800",India
+Suzlon Energy,Renewable Energy,"8,640",18.3,"12,400",India
+Sterling & Wilson,Renewable Energy,"6,240",6.8,"3,200",India
+Borosil Renewables,Renewable Energy,"1,640",18.2,800,India
+Page Industries,Apparel & Footwear,"4,727",21.3,0,India
+Vedant Fashions (Manyavar),Apparel & Footwear,"1,640",42.6,0,India
+ABFRL (Aditya Birla Fashion),Apparel & Footwear,"14,230",8.4,"6,800",India
+Trent (Westside/Zudio),Apparel & Footwear,"12,840",12.6,800,India
+Bata India,Apparel & Footwear,"3,840",16.4,200,India
+Metro Brands,Apparel & Footwear,"2,640",18.2,400,India
+Relaxo Footwears,Apparel & Footwear,"2,840",12.8,600,India
+Campus Activewear,Apparel & Footwear,"1,640",14.6,800,India
+Kewal Kiran Clothing,Apparel & Footwear,680,22.4,0,India
+Raymond,Apparel & Footwear,"9,840",14.8,"3,200",India
+Arvind,Apparel & Footwear,"7,640",11.2,"4,800",India
+Gokaldas Exports,Apparel & Footwear,"1,840",12.4,800,India
+KPR Mill,Apparel & Footwear,"3,240",18.6,"1,200",India
+Welspun India,Apparel & Footwear,"10,230",16.4,"4,200",India
+Trident,Apparel & Footwear,"7,640",18.2,"6,800",India
+SP Apparels,Apparel & Footwear,840,14.6,400,India
+Bombay Dyeing,Apparel & Footwear,"2,840",8.4,"3,200",India
+Zodiac Clothing,Apparel & Footwear,480,10.2,200,India
+Monte Carlo Fashions,Apparel & Footwear,"1,240",16.8,400,India
+Dollar Industries,Apparel & Footwear,"1,640",12.4,600,India
