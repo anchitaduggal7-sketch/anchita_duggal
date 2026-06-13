@@ -10,18 +10,15 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-GA_TRACKING_ID = "G-HJPZDZB5KE" 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJPZDZB5KE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-ga_html = f"""
-    <script async src="https://www.googletagmanager.com/gtag/js?id={GA_TRACKING_ID}"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){{dataLayer.push(arguments);}}
-        gtag('js', new Date());
-        gtag('config', '{GA_TRACKING_ID}');
-    </script>
-"""
-st.html(ga_html)
+  gtag('config', 'G-HJPZDZB5KE');
+</script>
 
 # Premium Custom CSS injection for styling tables, fonts, and metrics
 st.markdown("""
