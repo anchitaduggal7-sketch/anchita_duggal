@@ -4,9 +4,7 @@ import numpy as np
 import plotly.express as px
 import streamlit.components.v1 as components
 
-# =========================
-# PAGE SETUP & THEME INITIALIZATION
-# =========================
+# 1. PAGE SETUP & THEME INITIALIZATION
 st.set_page_config(
     page_title="India M&A Target Screener", 
     page_icon="💼", 
@@ -15,7 +13,7 @@ st.set_page_config(
 )
 
 # =========================
-# GOOGLE ANALYTICS (ADDED ONLY)
+# GOOGLE ANALYTICS (ONLY ADDITION)
 # =========================
 GA_ID = "G-HJPZDZB5KE"
 
@@ -29,27 +27,27 @@ components.html(f"""
 </script>
 """, height=0)
 
-# =========================
-# PREMIUM CUSTOM CSS (ORIGINAL + CREAM BACKGROUND ADDED ONLY)
-# =========================
+# Premium Custom CSS injection for styling tables, fonts, and metrics
 st.markdown("""
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
         
-        html, body, [class*="css"], .stMarkdown {
-            font-family: 'Inter', sans-serif;
-        }
-
-        /* ✅ ONLY ADDITION: cream background */
-        body, .stApp {
+        /* GLOBAL BACKGROUND CHANGE ONLY */
+        html, body, .stApp {
             background-color: #f7f3ea !important;
         }
 
+        html, body, [class*="css"], .stMarkdown {
+            font-family: 'Inter', sans-serif;
+        }
+        
+        /* Metric card container styling */
         div[data-testid="stMetricContainer"] {
             background-color: #f8fafc;
             border: 1px solid #e2e8f0;
             padding: 15px 20px;
             border-radius: 10px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
         }
 
         div[data-testid="stMetricLabel"] > div {
@@ -65,7 +63,7 @@ st.markdown("""
             font-weight: 700;
             color: #0f172a;
         }
-
+        
         button[data-baseweb="tab"] {
             font-size: 1rem;
             font-weight: 600;
@@ -79,9 +77,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# =========================
-# DATA LOAD ENGINE (UNCHANGED)
-# =========================
+# 2. DATA LOAD ENGINE WITH CACHING
 @st.cache_data
 def load_and_transform_data():
     try:
@@ -97,48 +93,37 @@ def load_and_transform_data():
             "Debt_Cr": [12000, 1500, 200, 0, 150, 2400, 31000, 850, 4200, 600]
         }
         df = pd.DataFrame(mock_data)
-
+    
     for col in ["Revenue_Cr", "EBITDA_Margin", "Debt_Cr"]:
+        df[col] = df[col].astype(str).str.replace(",", "", regex=False)
         df[col] = pd.to_numeric(df[col], errors="coerce")
-
-    df = df.dropna().copy()
-
+    
+    df = df.dropna(subset=["Revenue_Cr", "EBITDA_Margin", "Debt_Cr"]).copy()
+    
     df["EBITDA_Cr"] = df["Revenue_Cr"] * (df["EBITDA_Margin"] / 100)
     df["EV_Cr"] = (df["Revenue_Cr"] * 2) + df["Debt_Cr"]
-    df["EV_EBITDA"] = np.where(df["EBITDA_Cr"] > 0, df["EV_Cr"] / df["EBITDA_Cr"], np.nan)
-
+    df["EV_EBITDA"] = np.where(df["EBITDA_Cr"] > 0, (df["EV_Cr"] / df["EBITDA_Cr"]), np.nan)
+    
     return df
 
 df = load_and_transform_data()
 
 # =========================
-# HEADER (ONLY CHANGE APPLIED)
+# HEADER (ONLY CHANGED TEXT)
 # =========================
 st.title("MergerFlow Global // Enterprise M&A Target Intelligence")
 st.caption("Engineered by Anchita Duggal")
 
-# =========================
-# SIDEBAR (UNCHANGED)
-# =========================
+# 3. INTERACTIVE CONTROL SIDEBAR
 st.sidebar.markdown("### 🔍 Filter Parameters")
-
 industry_list = ["All"] + sorted(df["Industry"].unique().tolist())
 selected_industry = st.sidebar.selectbox("Target Sector", industry_list)
 
-min_margin = st.sidebar.slider(
-    "Minimum EBITDA Margin (%)",
-    int(df["EBITDA_Margin"].min()),
-    int(df["EBITDA_Margin"].max()),
-    5
-)
-
+min_margin = st.sidebar.slider("Minimum EBITDA Margin (%)", int(df["EBITDA_Margin"].min()), int(df["EBITDA_Margin"].max()), 5)
 top_n = st.sidebar.slider("Leaderboard Display Limit (Top N)", 5, 50, 10)
 
-# =========================
-# FILTERING LOGIC (UNCHANGED)
-# =========================
+# 4. FILTER ENGINE
 filtered_df = df.copy()
-
 if selected_industry != "All":
     filtered_df = filtered_df[filtered_df["Industry"] == selected_industry]
 
@@ -148,9 +133,7 @@ if filtered_df.empty:
     st.error("❌ No matching targets found within the specified filters.")
     st.stop()
 
-# =========================
-# SCORING ENGINE (UNCHANGED)
-# =========================
+# 5. SCORING ENGINE
 max_rev = filtered_df["Revenue_Cr"].max() or 1
 max_margin = filtered_df["EBITDA_Margin"].max() or 1
 max_debt = filtered_df["Debt_Cr"].max() or 1
@@ -176,9 +159,7 @@ filtered_df["Strategic_Tag"] = np.where(
 
 filtered_df = filtered_df.sort_values("Score", ascending=False).reset_index(drop=True)
 
-# =========================
-# KPI SECTION (UNCHANGED)
-# =========================
+# 6. KPI SECTION (UNCHANGED)
 c1, c2, c3, c4 = st.columns(4)
 
 c1.metric("Universe Scope", len(filtered_df))
@@ -186,9 +167,7 @@ c2.metric("Median Revenue", f"₹{filtered_df['Revenue_Cr'].median():,.0f} Cr")
 c3.metric("Weighted Margin", f"{filtered_df['EBITDA_Margin'].mean():.1f}%")
 c4.metric("Tier-1 Pipeline", len(filtered_df[filtered_df["Strategic_Tag"] == "⭐ Tier-1 Target"]))
 
-# =========================
-# TABS (UNCHANGED)
-# =========================
+# 7. TABS
 tab_dashboard, tab_analytics, tab_methodology = st.tabs([
     "📋 Target Leaderboard",
     "📊 Market Analytics",
