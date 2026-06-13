@@ -5,11 +5,23 @@ import plotly.express as px
 
 # 1. PAGE SETUP & THEME INITIALIZATION
 st.set_page_config(
-    page_title="India M&A Target Screener", 
+    page_title="MergerFlow Global // Enterprise M&A Target Intelligence", 
     page_icon="💼", 
     layout="wide",
     initial_sidebar_state="expanded"
 )
+GA_TRACKING_ID = "G-HJPZDZB5KE" 
+
+ga_html = f"""
+    <script async src="https://www.googletagmanager.com/gtag/js?id={GA_TRACKING_ID}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){{dataLayer.push(arguments);}}
+        gtag('js', new Date());
+        gtag('config', '{GA_TRACKING_ID}');
+    </script>
+"""
+st.html(ga_html)
 
 # Premium Custom CSS injection for styling tables, fonts, and metrics
 st.markdown("""
@@ -259,4 +271,3 @@ with tab_methodology:
         st.info("### 📈 2. Operating Efficiency\n**Weight: 45%**\n\n* **Formula:** `EBITDA Margin / Max(Margin)`\n* **Intent:** Maximizes target operating viability score performance metrics.")
     with m3:
         st.info("### 🛡️ 3. Balance Sheet Risk\n**Weight: 20%**\n\n* **Formula:** `1 - (Debt / Max(Debt))`\n* **Intent:** Penalizes excessive leverage structures to mitigate immediate restructuring friction overhead.")
-
