@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import streamlit.components.v1 as components
 
 # 1. PAGE SETUP & THEME INITIALIZATION
 st.set_page_config(
@@ -12,7 +13,7 @@ st.set_page_config(
 )
 
 # Google Analytics Tag Injection
-st.html("""
+components.html("""
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HJPZDZB5KE"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -20,7 +21,7 @@ st.html("""
   gtag('js', new Date());
   gtag('config', 'G-HJPZDZB5KE');
 </script>
-""")
+""", height=0)
 
 # Premium Custom CSS
 st.markdown("""
