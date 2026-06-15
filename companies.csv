@@ -545,3 +545,679 @@ Rail Vikas Nigam,Engineering,24000,8.4,4800,India
 IRCON International,Engineering,8640,12.4,2400,India
 NBCC India,Engineering,9840,4.6,400,India
 RITES,Engineering,2640,28.4,0,India
+Reliance Jio Platforms,Telecom,89400,28.4,45000,India
+Vodafone Idea,Telecom,43200,8.2,198000,India
+BSNL,Telecom,19800,3.4,38000,India
+Tata Communications,Telecom,18400,22.6,12400,India
+Sterlite Technologies,Telecom,6840,12.4,3200,India
+HFCL,Telecom,4230,9.8,1800,India
+Tejas Networks,Telecom,1840,8.4,400,India
+ITI Limited,Telecom,3240,4.2,1200,India
+Railtel Corporation,Telecom,2640,28.4,800,India
+Tata Teleservices,Telecom,8400,6.8,18000,India
+Indus Towers,Telecom Infrastructure,28400,42.6,48000,India
+ATC India,Telecom Infrastructure,12400,48.2,22000,India
+Summit Digitel,Telecom Infrastructure,4800,44.6,18000,India
+TASL Telecom,Telecom Infrastructure,2400,38.4,9800,India
+GTL Infrastructure,Telecom Infrastructure,3200,32.4,14000,India
+Apollo Hospitals,Healthcare,18640,12.4,8400,India
+Fortis Healthcare,Healthcare,7840,9.8,4200,India
+Max Healthcare,Healthcare,8640,11.2,3800,India
+Narayana Hrudayalaya,Healthcare,4840,12.6,2100,India
+Aster DM Healthcare,Healthcare,12400,8.4,4800,India
+Manipal Health,Healthcare,9800,10.2,6400,India
+Rainbow Children,Healthcare,1840,18.4,800,India
+Shalby Hospitals,Healthcare,1240,14.6,1200,India
+Global Health (Medanta),Healthcare,3240,13.8,2800,India
+HCG Oncology,Healthcare,1840,10.4,1600,India
+Krishna Institute,Healthcare,2640,16.8,1400,India
+Yatharth Hospital,Healthcare,840,18.2,400,India
+Vijaya Diagnostic,Healthcare,980,32.4,200,India
+Metropolis Healthcare,Healthcare,1240,22.6,400,India
+Dr Lal PathLabs,Healthcare,2240,24.8,0,India
+Thyrocare Technologies,Healthcare,680,28.4,0,India
+Healthium Medtech,Healthcare,1040,22.4,600,India
+Poly Medicure,Healthcare,1240,24.6,400,India
+Supriya Lifescience,Pharmaceuticals,640,32.4,200,India
+Solara Active Pharma,Pharmaceuticals,1840,8.4,1800,India
+Laurus Labs,Pharmaceuticals,4840,18.6,2400,India
+Strides Pharma,Pharmaceuticals,3640,12.4,3200,India
+Sequent Scientific,Pharmaceuticals,1840,10.8,1200,India
+Neuland Laboratories,Pharmaceuticals,1640,18.4,400,India
+Hikal,Pharmaceuticals,2240,14.6,1200,India
+Shilpa Medicare,Pharmaceuticals,1040,16.8,800,India
+Marksans Pharma,Pharmaceuticals,1840,16.4,600,India
+Ajanta Pharma,Pharmaceuticals,3840,24.6,400,India
+JB Chemicals,Pharmaceuticals,3240,22.4,800,India
+Eris Lifesciences,Pharmaceuticals,1840,28.6,1200,India
+Mankind Pharma,Pharmaceuticals,9840,22.4,2800,India
+Emcure Pharmaceuticals,Pharmaceuticals,7240,18.6,4200,India
+Zydus Lifesciences,Pharmaceuticals,18400,19.8,6400,India
+Wockhardt,Pharmaceuticals,3240,6.4,4800,India
+FDC Limited,Pharmaceuticals,1640,22.8,200,India
+Indoco Remedies,Pharmaceuticals,1840,14.6,400,India
+Panacea Biotec,Pharmaceuticals,1240,12.4,800,India
+Unichem Laboratories,Pharmaceuticals,1040,14.8,400,India
+Bliss GVS Pharma,Pharmaceuticals,840,18.4,200,India
+Venus Remedies,Pharmaceuticals,640,12.6,400,India
+Astrazeneca India,Pharmaceuticals,1240,28.4,0,India
+Pfizer India,Pharmaceuticals,2640,32.6,0,India
+Sanofi India,Pharmaceuticals,3240,24.8,0,India
+GlaxoSmithKline India,Pharmaceuticals,4240,28.4,0,India
+Novartis India,Pharmaceuticals,1040,22.6,0,India
+HDFC Life Insurance,Insurance,28400,18.4,0,India
+SBI Life Insurance,Insurance,32400,16.8,0,India
+ICICI Prudential Life,Insurance,24800,14.6,0,India
+Max Life Insurance,Insurance,18400,12.4,0,India
+Bajaj Allianz Life,Insurance,16800,14.8,0,India
+Kotak Life Insurance,Insurance,12400,16.2,0,India
+Tata AIA Life,Insurance,9800,18.4,0,India
+PNB MetLife,Insurance,8400,12.6,0,India
+Aditya Birla Sun Life,Insurance,14200,13.8,0,India
+Edelweiss Tokio Life,Insurance,4800,10.4,0,India
+New India Assurance,Insurance,38400,8.4,0,India
+United India Insurance,Insurance,18400,6.8,0,India
+Oriental Insurance,Insurance,16800,7.2,0,India
+National Insurance,Insurance,14200,6.4,0,India
+ICICI Lombard,Insurance,22400,18.6,0,India
+Bajaj Allianz General,Insurance,18400,16.4,0,India
+HDFC ERGO,Insurance,14800,14.8,0,India
+SBI General Insurance,Insurance,9800,12.6,0,India
+Star Health Insurance,Insurance,14200,6.4,1200,India
+Niva Bupa Health,Insurance,6840,4.8,800,India
+Care Health Insurance,Insurance,4840,6.2,400,India
+Digit Insurance,Insurance,7240,2.4,600,India
+Acko General Insurance,Insurance,3240,-8.4,400,India
+Go Digit Life,Insurance,1840,4.6,200,India
+SBFC Finance,NBFC,1640,48.6,8400,India
+Aavas Financiers,NBFC,2240,52.4,12400,India
+Home First Finance,NBFC,1640,54.6,8800,India
+Aptus Value Housing,NBFC,1240,56.8,6400,India
+Repco Home Finance,NBFC,1840,42.4,12800,India
+Can Fin Homes,NBFC,3240,44.6,18400,India
+LIC Housing Finance,NBFC,28400,38.6,184000,India
+PNB Housing Finance,NBFC,8400,36.4,68400,India
+GIC Housing Finance,NBFC,1840,34.8,14200,India
+Indiabulls Housing,NBFC,8400,28.4,68400,India
+Tata Capital Housing,NBFC,4800,38.4,38400,India
+Bajaj Housing Finance,NBFC,6840,42.6,48400,India
+Sundaram Home Finance,NBFC,2640,40.4,18400,India
+Motilal Oswal Financial,Capital Markets,4840,38.4,2800,India
+Angel One,Capital Markets,3640,42.6,1200,India
+IIFL Securities,Capital Markets,4240,32.4,2400,India
+Geojit Financial,Capital Markets,980,28.6,400,India
+Kotak Securities,Capital Markets,6840,44.8,1800,India
+ICICI Securities,Capital Markets,8400,48.6,1200,India
+HDFC Securities,Capital Markets,4840,46.4,800,India
+Nuvama Wealth,Capital Markets,3240,36.8,1200,India
+360 One WAM,Capital Markets,2840,52.4,400,India
+Anand Rathi Wealth,Capital Markets,1840,48.6,200,India
+CAMS,Capital Markets,1640,42.4,0,India
+KFin Technologies,Capital Markets,1240,38.6,200,India
+BSE Limited,Capital Markets,1840,46.8,0,India
+MCX India,Capital Markets,1240,44.6,0,India
+NSE Data & Analytics,Capital Markets,2840,52.4,0,India
+Multi Commodity Exchange,Capital Markets,980,42.6,0,India
+UTI Asset Management,Asset Management,2840,34.6,0,India
+HDFC AMC,Asset Management,4240,68.4,0,India
+Nippon Life AMC,Asset Management,2640,62.8,0,India
+Aditya Birla Sun Life AMC,Asset Management,2240,58.4,0,India
+SBI Funds Management,Asset Management,4840,64.6,0,India
+Mirae Asset,Asset Management,1240,56.8,0,India
+ICICI Prudential AMC,Asset Management,3840,66.4,0,India
+Axis AMC,Asset Management,1640,54.6,0,India
+DSP Investment Managers,Asset Management,1240,58.4,0,India
+Edelweiss AMC,Asset Management,840,46.8,0,India
+Oberoi Realty,Real Estate,4840,48.6,8400,India
+DLF Limited,Real Estate,8640,42.4,18400,India
+Prestige Estates,Real Estate,12400,24.6,14200,India
+Brigade Enterprises,Real Estate,6840,22.4,8800,India
+Phoenix Mills,Real Estate,4240,52.6,12400,India
+Macrotech Developers,Real Estate,14200,28.4,28400,India
+Sobha Limited,Real Estate,4840,18.6,6800,India
+Godrej Properties,Real Estate,7400,14.2,4200,India
+Sunteck Realty,Real Estate,2240,32.4,3200,India
+Kolte Patil Developers,Real Estate,2640,22.8,2800,India
+Puravankara,Real Estate,3240,18.4,4200,India
+Indiabulls Real Estate,Real Estate,2840,12.6,8400,India
+Ashiana Housing,Real Estate,1840,22.4,1200,India
+Mahindra Lifespace,Real Estate,1640,16.8,2400,India
+Shriram Properties,Real Estate,1840,14.6,2800,India
+Raymond Realty,Real Estate,2640,18.4,3200,India
+Sigachi Industries,Specialty Chemicals,480,22.4,200,India
+Camlin Fine Sciences,Specialty Chemicals,1240,16.8,600,India
+Rossari Biotech,Specialty Chemicals,1840,16.4,800,India
+Neogen Chemicals,Specialty Chemicals,840,18.6,400,India
+Clean Science Tech,Specialty Chemicals,1240,42.6,0,India
+Tatva Chintan,Specialty Chemicals,640,28.4,200,India
+Aether Industries,Specialty Chemicals,1840,22.6,600,India
+Anupam Rasayan,Specialty Chemicals,1640,24.8,1200,India
+Laxmi Organic,Specialty Chemicals,2640,14.6,800,India
+Ami Organics,Specialty Chemicals,840,24.6,400,India
+Jubilant Ingrevia,Specialty Chemicals,4840,16.8,2400,India
+Atul Limited,Specialty Chemicals,6840,18.4,1200,India
+Bodal Chemicals,Specialty Chemicals,1640,10.8,800,India
+Archean Chemical,Specialty Chemicals,1840,38.4,1200,India
+Thirumalai Chemicals,Specialty Chemicals,2640,12.6,1200,India
+Prince Pipes,Building Materials,3240,12.4,1200,India
+Astral Limited,Building Materials,4840,14.6,1200,India
+Supreme Industries,Building Materials,8640,14.8,2400,India
+Finolex Industries,Building Materials,4240,18.6,1200,India
+Ajmera Realty,Building Materials,1240,22.4,1800,India
+Cera Sanitaryware,Building Materials,1840,18.6,400,India
+Kajaria Ceramics,Building Materials,4240,16.4,1200,India
+Somany Ceramics,Building Materials,2840,10.8,1200,India
+Orient Bell,Building Materials,1240,10.4,600,India
+Asian Granito,Building Materials,2640,8.6,1400,India
+Nuvoco Vistas,Building Materials,11400,12.4,6800,India
+Greenpanel Industries,Building Materials,1840,18.6,800,India
+Century Plyboards,Building Materials,4240,14.8,1200,India
+Greenply Industries,Building Materials,2640,12.6,800,India
+Shankara Building Products,Building Materials,4840,6.4,1800,India
+Tata Realty,Real Estate,3240,28.4,8400,India
+Inox Wind,Renewable Energy,4840,8.4,4800,India
+Wind World India,Renewable Energy,2640,6.8,3200,India
+Mytrah Energy,Renewable Energy,3240,72.4,18400,India
+Torrent Green,Renewable Energy,2840,68.6,14200,India
+Hero Future Energies,Renewable Energy,3640,74.8,18800,India
+Sprng Energy,Renewable Energy,4840,76.4,24200,India
+Amp Energy,Renewable Energy,2240,70.6,12400,India
+O2 Power,Renewable Energy,1840,72.8,9800,India
+Ayana Renewable,Renewable Energy,2640,74.4,14200,India
+Continuum Green Energy,Renewable Energy,3840,76.8,19800,India
+CleanMax Solar,Renewable Energy,1840,68.4,8400,India
+Avaada Energy,Renewable Energy,2840,72.6,14800,India
+ACME Solar,Renewable Energy,4240,74.8,22400,India
+Fourth Partner Energy,Renewable Energy,1640,70.4,8800,India
+Mahindra Susten,Renewable Energy,2440,68.6,12400,India
+Tata Power Solar,Renewable Energy,6840,16.4,8400,India
+Vikram Solar,Renewable Energy,3240,12.6,2400,India
+Goldi Solar,Renewable Energy,2640,10.8,1800,India
+Renewsys India,Renewable Energy,1840,12.4,1200,India
+Saatvik Green Energy,Renewable Energy,2240,10.6,1600,India
+Lemon Tree Hotels,Hospitality,2640,28.4,4200,India
+Indian Hotels (Taj),Hospitality,6840,18.6,8400,India
+EIH (Oberoi Hotels),Hospitality,3240,22.4,2800,India
+Chalet Hotels,Hospitality,2840,32.4,4800,India
+Mahindra Holidays,Hospitality,2240,18.6,2400,India
+Thomas Cook India,Hospitality,3640,8.4,1800,India
+Sterling Holidays,Hospitality,840,14.6,1200,India
+Wonderla Holidays,Hospitality,640,32.8,400,India
+Club Mahindra,Hospitality,1840,22.4,3200,India
+IHCL Seleqtions,Hospitality,1240,24.6,1800,India
+Sinclairs Hotels,Hospitality,280,28.4,200,India
+Royal Orchid Hotels,Hospitality,480,18.6,400,India
+Kamat Hotels,Hospitality,640,16.4,800,India
+Oriental Hotels,Hospitality,480,22.8,600,India
+Asian Hotels North,Hospitality,320,18.4,400,India
+VIP Industries,Consumer Goods,2240,14.6,400,India
+Safari Industries,Consumer Goods,1840,12.8,400,India
+Samsonite India,Consumer Goods,3240,16.4,600,India
+TTK Prestige,Consumer Goods,2640,14.8,200,India
+Hawkins Cookers,Consumer Goods,980,18.6,0,India
+Butterfly Gandhimathi,Consumer Goods,640,10.4,200,India
+Stovekraft,Consumer Goods,840,10.8,400,India
+Preethi Kitchen,Consumer Goods,480,12.4,200,India
+Crompton Greaves Consumer,Consumer Goods,6840,10.6,800,India
+Orient Electric,Consumer Goods,2840,10.8,400,India
+Bajaj Electricals,Consumer Goods,5640,8.4,800,India
+V-Guard Industries,Consumer Goods,4240,8.6,400,India
+Finolex Cables,Consumer Goods,4840,12.4,400,India
+KEI Industries,Consumer Goods,7640,8.6,1200,India
+Polycab India,Consumer Goods,18400,11.4,800,India
+RR Kabel,Consumer Goods,6840,9.8,600,India
+Syska Group,Consumer Goods,3240,10.4,800,India
+Dixon Technologies,Electronics Manufacturing,14200,4.8,2400,India
+Amber Enterprises,Electronics Manufacturing,8640,6.4,2800,India
+PG Electroplast,Electronics Manufacturing,4240,6.8,1600,India
+Kaynes Technology,Electronics Manufacturing,2840,12.4,1200,India
+Syrma SGS Technology,Electronics Manufacturing,2240,8.4,800,India
+Avalon Technologies,Electronics Manufacturing,1240,9.6,600,India
+Elin Electronics,Electronics Manufacturing,1640,8.8,400,India
+VVDN Technologies,Electronics Manufacturing,1840,10.4,600,India
+Ideaforge Technology,Electronics Manufacturing,480,8.4,400,India
+Paras Defence,Electronics Manufacturing,640,28.4,200,India
+Bharat Electronics,Defence & Electronics,18400,22.4,1200,India
+Hindustan Aeronautics,Defence,28400,18.6,8400,India
+Mazagon Dock,Defence,9840,12.4,2400,India
+Garden Reach Shipbuilders,Defence,4840,8.6,1200,India
+Cochin Shipyard,Defence,4240,14.8,1800,India
+Bharat Dynamics,Defence,3640,16.4,800,India
+Solar Industries,Defence,6840,22.8,2400,India
+Astra Microwave,Defence,1240,18.4,400,India
+Data Patterns,Defence,1040,28.6,200,India
+MTAR Technologies,Defence,840,22.4,400,India
+Zen Technologies,Defence,640,24.6,200,India
+DCX Systems,Defence,1240,16.8,600,India
+Centum Electronics,Defence,1040,12.4,400,India
+Dragonfly Technologies,Defence,480,18.6,200,India
+Sagar Defence,Defence,320,22.4,100,India
+Vedanta Aluminium,Metals & Mining,84000,28.4,48000,India
+Nalco,Metals & Mining,16840,21.3,0,India
+Hindalco Novelis,Metals & Mining,124000,10.8,68400,India
+Ratna Steels,Metals & Mining,2840,8.6,1800,India
+Tata Metaliks,Metals & Mining,4840,10.4,2400,India
+Electrosteel Castings,Metals & Mining,3640,12.6,3200,India
+Maithan Alloys,Metals & Mining,2840,14.8,800,India
+Sarda Energy Minerals,Metals & Mining,4840,16.4,4200,India
+Prakash Industries,Metals & Mining,6840,10.8,4800,India
+Monnet Ispat,Metals & Mining,4840,8.4,8400,India
+Lloyds Metals,Metals & Mining,8640,22.4,2400,India
+Godawari Power,Metals & Mining,6840,18.6,4200,India
+Gallantt Metal,Metals & Mining,3640,10.4,2800,India
+Sunflag Iron,Metals & Mining,4840,8.8,3200,India
+Pennar Industries,Metals & Mining,3840,8.4,2400,India
+Tube Investments,Engineering,8640,12.6,2800,India
+Timken India,Engineering,3640,16.8,800,India
+SKF India,Engineering,4840,14.6,400,India
+Schaeffler India,Engineering,6840,16.4,800,India
+Elgi Equipments,Engineering,3240,14.8,400,India
+Kirloskar Electric,Engineering,4840,10.4,1800,India
+Bharat Bijlee,Engineering,2840,12.6,400,India
+Triveni Engineering,Engineering,8640,10.8,2400,India
+Texmaco Rail,Engineering,3840,8.6,2400,India
+BEML,Engineering,4840,8.4,2400,India
+Rail Vikas Nigam,Engineering,24000,8.4,4800,India
+IRCON International,Engineering,8640,12.4,2400,India
+NBCC India,Engineering,9840,4.6,400,India
+RITES,Engineering,2640,28.4,0,India
+HPCL Rajasthan Refinery,Engineering,18400,6.4,28400,India
+Welspun Enterprises,Engineering,6840,18.4,4200,India
+KNR Constructions,Engineering,6840,14.6,2400,India
+HG Infra,Engineering,4840,12.8,2800,India
+Dilip Buildcon,Engineering,12400,10.4,8400,India
+MEIL Group,Engineering,18400,12.6,12400,India
+Megha Engineering,Engineering,14200,10.8,9800,India
+JMC Projects,Engineering,8640,8.4,4200,India
+Simplex Infrastructure,Engineering,6840,6.4,6800,India
+Sadbhav Engineering,Engineering,6840,8.6,6400,India
+Afcons Infrastructure,Engineering,12400,9.8,6800,India
+Capacite Infraprojects,Engineering,3840,10.4,2400,India
+PSP Projects,Engineering,4840,12.4,1800,India
+Ahluwalia Contracts,Engineering,6840,10.8,2400,India
+J Kumar Infraprojects,Engineering,4840,10.4,2800,India
+PVR INOX,Media & Entertainment,6840,18.4,8400,India
+Sun TV Network,Media & Entertainment,4240,52.6,800,India
+Zee Entertainment,Media & Entertainment,8640,22.4,6400,India
+Network18,Media & Entertainment,6840,8.4,4800,India
+TV18 Broadcast,Media & Entertainment,3640,12.6,2400,India
+Hathway Cable,Media & Entertainment,2840,28.4,4200,India
+Den Networks,Media & Entertainment,2240,24.6,3200,India
+Dish TV India,Media & Entertainment,4840,32.4,8400,India
+Tata Play,Media & Entertainment,6840,18.6,8400,India
+Saregama India,Media & Entertainment,840,38.6,400,India
+Tips Music,Media & Entertainment,480,42.4,0,India
+T-Series Music,Media & Entertainment,1840,38.6,400,India
+Sony Pictures Networks,Media & Entertainment,12400,18.4,2400,India
+Balaji Telefilms,Media & Entertainment,840,8.4,400,India
+Shemaroo Entertainment,Media & Entertainment,640,14.6,400,India
+IndiGo Catering,Aviation,1840,6.4,1200,India
+Air India,Aviation,28400,-8.4,48000,India
+SpiceJet,Aviation,9840,-12.4,18400,India
+Akasa Air,Aviation,4840,-18.4,4800,India
+Blue Dart Aviation,Aviation,2840,18.6,800,India
+Go First Airlines,Aviation,6840,-14.6,12400,India
+Alliance Air,Aviation,840,-6.4,1200,India
+Star Air,Aviation,480,-4.8,600,India
+TruJet,Aviation,320,-8.4,400,India
+Flybig,Aviation,240,-12.6,200,India
+Airport Authority of India,Aviation Infrastructure,28400,42.6,12400,India
+GMR Airports,Aviation Infrastructure,12400,48.4,48000,India
+Adani Airport Holdings,Aviation Infrastructure,8400,44.6,38400,India
+GVK Power & Infrastructure,Aviation Infrastructure,6840,38.4,28400,India
+Cochin International Airport,Aviation Infrastructure,2840,52.4,4200,India
+Bengaluru International Airport,Aviation Infrastructure,4840,48.6,8400,India
+Hyderabad International Airport,Aviation Infrastructure,3840,46.4,6400,India
+Pune Airport,Aviation Infrastructure,1840,42.8,2800,India
+Navi Mumbai Airport,Aviation Infrastructure,2240,44.6,12400,India
+Jewar Airport,Aviation Infrastructure,1840,46.8,14200,India
+Mahanadi Coalfields,Mining,28400,42.6,0,India
+Northern Coalfields,Mining,18400,38.4,0,India
+South Eastern Coalfields,Mining,22400,40.6,0,India
+Western Coalfields,Mining,14200,36.8,0,India
+Central Coalfields,Mining,16800,38.2,0,India
+Bharat Coking Coal,Mining,12400,34.6,0,India
+MOIL,Mining,1840,52.4,0,India
+Sandur Manganese,Mining,2640,48.6,400,India
+Hindustan Copper,Mining,4240,28.4,2800,India
+National Mineral Development,Mining,22400,48.6,0,India
+Manganese Ore India,Mining,1240,42.4,0,India
+Deccan Gold Mines,Mining,480,18.4,400,India
+Hutti Gold Mines,Mining,840,22.6,200,India
+Gujarat Mineral Development,Mining,2640,38.4,800,India
+Rajasthan State Mines,Mining,1840,32.6,400,India
+Bosch Rexroth India,Industrial Machinery,2840,16.4,400,India
+Grindmaster Pecaso,Industrial Machinery,480,12.6,200,India
+Praj Industries,Industrial Machinery,3640,14.8,800,India
+Ion Exchange India,Industrial Machinery,2840,14.6,600,India
+Thermax Babcock,Industrial Machinery,1840,10.8,400,India
+Forbes Marshall,Industrial Machinery,2640,14.4,400,India
+Alfa Laval India,Industrial Machinery,2840,16.8,200,India
+GEA Farm Technologies,Industrial Machinery,1240,14.6,400,India
+SPX Flow India,Industrial Machinery,840,12.4,200,India
+Dover India,Industrial Machinery,1640,14.8,400,India
+Graco India,Industrial Machinery,480,18.6,0,India
+Atlas Copco India,Industrial Machinery,4840,18.4,400,India
+Ingersoll Rand India,Industrial Machinery,3240,16.6,200,India
+Kaeser Compressors,Industrial Machinery,1640,14.8,400,India
+Gardner Denver India,Industrial Machinery,1240,12.6,200,India
+Flipkart,E-Commerce,84000,-4.6,12400,India
+Meesho,E-Commerce,14200,-18.4,4800,India
+Myntra,E-Commerce,12400,-8.4,2800,India
+Snapdeal,E-Commerce,4840,-12.6,1800,India
+ShopClues,E-Commerce,1840,-16.4,800,India
+Tata CLiQ,E-Commerce,6840,-6.4,1200,India
+Reliance JioMart,E-Commerce,28400,-2.4,4800,India
+BigBasket,E-Commerce,12400,-6.8,2400,India
+Grofers (Blinkit),E-Commerce,8640,-12.4,2400,India
+Zepto,E-Commerce,6840,-22.4,1800,India
+Dunzo,E-Commerce,2640,-38.4,1200,India
+Milkbasket,E-Commerce,1240,-14.6,600,India
+Country Delight,E-Commerce,2840,-8.4,800,India
+Licious,E-Commerce,1840,-22.6,600,India
+FreshToHome,E-Commerce,1640,-18.4,400,India
+PhonePe,Fintech,28400,-4.8,2400,India
+BharatPe,Fintech,4840,-18.6,1200,India
+Razorpay,Fintech,4240,-8.4,800,India
+CRED,Fintech,2840,-22.4,400,India
+Groww,Fintech,3240,-4.6,400,India
+Zerodha,Fintech,4840,38.4,400,India
+Upstox,Fintech,2840,-4.6,400,India
+5paisa Capital,Fintech,840,14.6,400,India
+Smallcase Technologies,Fintech,480,-12.4,200,India
+INDmoney,Fintech,640,-18.6,200,India
+Jupiter Money,Fintech,480,-22.4,200,India
+Fi Money,Fintech,640,-18.6,200,India
+Open Financial,Fintech,840,-14.8,200,India
+Slice Pay,Fintech,1240,-22.4,400,India
+KreditBee,Fintech,2840,-12.6,800,India
+MoneyTap,Fintech,1240,-16.8,400,India
+EarlySalary,Fintech,1640,-14.6,600,India
+Kissht,Fintech,1840,-12.4,800,India
+LazyPay,Fintech,1240,-16.8,400,India
+Simpl,Fintech,840,-22.4,200,India
+Ola Electric,Electric Vehicles,8640,-22.4,6400,India
+Ather Energy,Electric Vehicles,4840,-18.6,2800,India
+Tata Motors EV,Electric Vehicles,18400,-8.4,28400,India
+Mahindra Electric,Electric Vehicles,6840,-12.4,8400,India
+Hero Electric,Electric Vehicles,2840,-18.6,1800,India
+Revolt Motors,Electric Vehicles,1240,-22.4,800,India
+Okinawa Autotech,Electric Vehicles,1840,-16.8,1200,India
+Ampere Vehicles,Electric Vehicles,2640,-14.6,1600,India
+Greaves Electric,Electric Vehicles,3240,-12.4,1800,India
+Kinetic Green,Electric Vehicles,1840,-18.6,1200,India
+Pure EV,Electric Vehicles,1240,-22.4,600,India
+Ultraviolette Automotive,Electric Vehicles,480,-28.4,400,India
+Simple Energy,Electric Vehicles,640,-24.6,400,India
+Bounce Infinity,Electric Vehicles,1240,-22.4,600,India
+Yulu Bikes,Electric Vehicles,840,-28.6,400,India
+Swiggy Instamart,Food Tech,8640,-14.6,2400,India
+Rebel Foods,Food Tech,4840,-12.4,1800,India
+Box8,Food Tech,1240,-18.6,600,India
+Freshmenu,Food Tech,840,-22.4,400,India
+Faasos,Food Tech,1640,-16.8,800,India
+Behrouz Biryani,Food Tech,1240,-14.6,600,India
+EatFit,Food Tech,840,-18.4,400,India
+Biryani Blues,Food Tech,640,-12.6,200,India
+Wow Momo,Food Tech,1840,-8.4,800,India
+Burger Singh,Food Tech,840,-12.6,400,India
+Haldirams,Food & Beverages,14200,18.4,2400,India
+Bikano,Food & Beverages,4840,16.8,800,India
+Bikanervala Foods,Food & Beverages,3640,18.4,600,India
+Priya Foods,Food & Beverages,2840,16.6,400,India
+MTR Foods,Food & Beverages,3240,18.4,800,India
+Eastern Condiments,Food & Beverages,2640,16.8,400,India
+Everest Spices,Food & Beverages,3840,18.4,600,India
+MDH Spices,Food & Beverages,4840,22.6,400,India
+Catch Foods,Food & Beverages,2240,18.4,200,India
+Aachi Masala,Food & Beverages,1840,16.8,200,India
+Patanjali Ayurved,Food & Beverages,28400,18.4,4800,India
+Dabur Honey,Food & Beverages,4840,22.6,400,India
+Apis India,Food & Beverages,1840,18.4,200,India
+Baidyanath,Food & Beverages,2640,22.8,400,India
+Hamdard Laboratories,Food & Beverages,3240,18.6,400,India
+Emami Healthy & Tasty,Food & Beverages,1840,16.4,200,India
+Sunpure Oils,Food & Beverages,4840,8.4,1200,India
+Ruchi Soya,Food & Beverages,28400,8.6,18400,India
+Adani Wilmar,Food & Beverages,58400,4.8,8400,India
+Cargill India,Food & Beverages,18400,6.4,2400,India
+Mother Dairy,Food & Beverages,14200,6.8,1200,India
+Amul (GCMMF),Food & Beverages,58400,4.6,0,India
+Heritage Foods,Food & Beverages,4840,6.4,800,India
+Hatsun Agro,Food & Beverages,8640,8.4,2400,India
+Parag Milk Foods,Food & Beverages,3640,8.8,1800,India
+Prabhat Dairy,Food & Beverages,2840,6.4,1200,India
+Milkfood,Food & Beverages,1840,8.6,600,India
+Kwality,Food & Beverages,4840,4.8,2800,India
+Dodla Dairy,Food & Beverages,2840,8.4,1200,India
+Sterling Agro,Food & Beverages,1640,6.8,800,India
+Sula Vineyards,Food & Beverages,640,22.4,1200,India
+Grover Zampa,Food & Beverages,480,18.6,800,India
+Fratelli Wines,Food & Beverages,240,16.4,400,India
+Diageo India (USL),Food & Beverages,11230,18.6,1200,India
+Radico Khaitan,Food & Beverages,4840,16.4,2400,India
+Tilak Nagar Industries,Food & Beverages,6840,14.8,3200,India
+GM Breweries,Food & Beverages,840,18.6,200,India
+Globus Spirits,Food & Beverages,2640,16.4,1200,India
+Som Distilleries,Food & Beverages,1840,14.8,800,India
+Piccadily Agro,Food & Beverages,1240,18.4,600,India
+Allied Blenders,Food & Beverages,8640,12.6,4200,India
+Medplus Health,Pharmacy Retail,6840,6.4,1200,India
+Apollo Pharmacy,Pharmacy Retail,18400,8.4,2400,India
+Tata 1mg,Pharmacy Retail,4840,-12.4,1200,India
+Netmeds,Pharmacy Retail,3240,-8.6,800,India
+PharmEasy,Pharmacy Retail,6840,-18.4,2400,India
+Wellness Forever,Pharmacy Retail,2840,6.8,800,India
+Guardian Pharmacy,Pharmacy Retail,1840,4.6,400,India
+Healthkart,Pharmacy Retail,1640,-8.4,600,India
+Muscle Blaze,Pharmacy Retail,1240,12.4,200,India
+OZiva,Pharmacy Retail,840,-4.8,200,India
+Mamaearth (Honasa),Personal Care,1840,2.4,200,India
+Wow Skin Science,Personal Care,1240,-4.8,400,India
+Plum Goodness,Personal Care,640,-8.4,200,India
+Minimalist,Personal Care,840,-2.4,100,India
+Mcaffeine,Personal Care,480,-6.8,200,India
+Sugar Cosmetics,Personal Care,840,-12.4,400,India
+Nykaa Private Labels,Personal Care,1240,-4.6,200,India
+Forest Essentials,Personal Care,480,18.4,100,India
+Biotique,Personal Care,840,14.6,200,India
+Jovees,Personal Care,480,12.4,100,India
+Lotus Herbals,Personal Care,1240,16.8,200,India
+Himalaya Drug Company,Personal Care,4840,18.4,800,India
+CavinKare,Personal Care,2640,16.6,600,India
+Bajaj Consumer Care,Personal Care,1840,28.4,200,India
+Zydus Wellness,Personal Care,2640,24.6,800,India
+SH Kelkar,Personal Care,1640,14.8,400,India
+Iffco Tokio General,Personal Care,6840,12.4,400,India
+Godrej Professional,Personal Care,2840,18.6,200,India
+Lakmé India,Personal Care,4240,22.4,0,India
+L'Oreal India,Personal Care,6840,18.6,0,India
+Naukri.com Parent,EdTech & Platforms,3240,32.4,0,India
+Byju's,EdTech,28400,-42.6,18400,India
+Unacademy,EdTech,4840,-28.4,2400,India
+Vedantu,EdTech,1840,-32.6,800,India
+UpGrad,EdTech,2840,-18.4,1200,India
+WhiteHat Jr,EdTech,1640,-28.6,600,India
+Simplilearn,EdTech,1240,-12.4,400,India
+NIIT Limited,EdTech,2840,8.4,800,India
+Aptech Limited,EdTech,1240,12.6,400,India
+EduComp Solutions,EdTech,840,-8.4,1800,India
+Extramarks,EdTech,1240,-18.4,600,India
+Toppr,EdTech,840,-22.6,400,India
+Embibe,EdTech,640,-28.4,400,India
+Eruditus,EdTech,4840,-8.4,1200,India
+Great Learning,EdTech,2640,-12.6,800,India
+Scaler Academy,EdTech,1640,-6.4,400,India
+PhysicsWallah,EdTech,2840,-4.8,400,India
+Classplus,EdTtech,1240,-12.4,400,India
+Lead School,EdTech,1840,-18.6,800,India
+Teachmint,EdTech,840,-22.4,400,India
+Ola Cabs,Mobility,18400,-12.4,8400,India
+Rapido,Mobility,4840,-18.6,1800,India
+Yulu,Mobility,840,-28.4,400,India
+Bounce,Mobility,1240,-22.6,600,India
+BluSmart,Mobility,1840,-18.4,800,India
+Meru Cabs,Mobility,1240,-8.4,600,India
+Uber India,Mobility,12400,-4.8,2400,India
+Porter,Mobility,4840,-8.6,1200,India
+Rivigo,Mobility,3640,-12.4,1800,India
+BlackBuck,Mobility,2840,-8.4,1200,India
+Droom,Mobility,840,-18.4,400,India
+Cars24,Mobility,8640,-14.6,2400,India
+Spinny,Mobility,4840,-18.4,1200,India
+OLX Autos,Mobility,2840,-12.6,800,India
+Mahindra First Choice,Mobility,2240,-4.6,800,India
+NoBroker,PropTech,1840,-12.4,400,India
+Housing.com,PropTech,1240,-8.6,400,India
+MagicBricks,PropTech,840,-4.8,200,India
+99acres,PropTech,980,-6.4,200,India
+Square Yards,PropTech,1240,-12.4,400,India
+PropTiger,PropTech,840,-8.6,200,India
+Anarock Property,PropTech,1240,4.8,200,India
+Stanza Living,PropTech,1840,-18.4,800,India
+Zolo Stays,PropTech,840,-14.6,400,India
+OYO Rooms,PropTech,14200,-22.4,8400,India
+Treebo Hotels,PropTech,1240,-12.4,400,India
+FabHotels,PropTech,840,-8.6,200,India
+Zostel,PropTech,480,-4.8,200,India
+Airbnb India,PropTech,2840,-2.4,400,India
+MakeMyTrip,Travel Tech,8640,8.4,1200,India
+Goibibo,Travel Tech,4840,6.8,800,India
+Cleartrip,Travel Tech,3640,-4.6,600,India
+Yatra Online,Travel Tech,1840,-2.4,400,India
+Ixigo,Travel Tech,1640,4.8,200,India
+Abhibus,Travel Tech,840,-6.4,200,India
+redBus,Travel Tech,1640,8.4,400,India
+ConfirmTkt,Travel Tech,480,12.6,0,India
+RailYatri,Travel Tech,320,-4.8,100,India
+Trainman,Travel Tech,240,8.4,0,India
+Lenskart,D2C Retail,4840,-4.8,1200,India
+Warby Parker India,D2C Retail,840,-8.4,200,India
+Specsmakers,D2C Retail,1240,-2.4,400,India
+GKB Opticals,D2C Retail,840,4.6,200,India
+Lawrence & Mayo,D2C Retail,1240,6.8,400,India
+Titan Eye Plus,D2C Retail,3640,12.4,200,India
+Portonics,D2C Retail,480,14.6,100,India
+Bewakoof,D2C Retail,1240,-8.4,400,India
+Clovia,D2C Retail,840,-6.8,200,India
+Zivame,D2C Retail,1040,-4.6,400,India
+Amante,D2C Retail,640,-2.4,200,India
+PrettySecrets,D2C Retail,480,-6.8,200,India
+Jockey India,D2C Retail,4840,18.6,400,India
+Hanes India,D2C Retail,1640,14.8,200,India
+Rupa & Company,D2C Retail,2840,14.6,600,India
+Lovable Lingerie,D2C Retail,840,12.4,200,India
+Enamor,D2C Retail,640,14.8,100,India
+Triumph India,D2C Retail,480,16.4,0,India
+Pepe Jeans India,D2C Retail,2840,12.6,400,India
+Wrangler India,D2C Retail,1840,14.8,200,India
+Levis India,D2C Retail,3240,16.4,400,India
+UCB India,D2C Retail,2640,14.6,400,India
+Zara India,D2C Retail,4840,18.4,0,India
+H&M India,D2C Retail,6840,12.6,0,India
+Uniqlo India,D2C Retail,2840,14.8,0,India
+Marks & Spencer India,D2C Retail,1840,16.4,0,India
+Forever 21 India,D2C Retail,1240,10.8,0,India
+Gap India,D2C Retail,840,12.4,0,India
+Spykar,D2C Retail,1240,14.6,200,India
+Lee Cooper India,D2C Retail,1640,12.8,200,India
+Flying Machine,D2C Retail,840,10.4,200,India
+Killer Jeans,D2C Retail,1640,12.6,400,India
+Numero Uno,D2C Retail,840,10.8,200,India
+Duke Fashions,D2C Retail,640,12.4,100,India
+Indigo Nation,D2C Retail,480,10.6,100,India
+Van Heusen India,D2C Retail,3840,16.4,400,India
+Peter England,D2C Retail,2840,14.8,200,India
+Louis Philippe India,D2C Retail,3640,18.4,400,India
+Allen Solly,D2C Retail,2640,16.6,200,India
+Blackberrys,D2C Retail,1840,14.8,400,India
+Arrow India,D2C Retail,1640,16.4,200,India
+Park Avenue,D2C Retail,1240,14.6,200,India
+Cantabil Retail,D2C Retail,840,12.4,200,India
+Turtle Limited,D2C Retail,640,14.8,100,India
+Woodland India,D2C Retail,1840,14.6,400,India
+Khadim India,D2C Retail,1640,10.4,400,India
+Liberty Shoes,D2C Retail,1240,10.8,400,India
+Sreeleathers,D2C Retail,480,12.4,100,India
+Mochi Shoes,D2C Retail,840,14.6,200,India
+Shoe Factory,D2C Retail,640,12.4,100,India
+Pavers England,D2C Retail,480,16.4,0,India
+Tata Trutest,D2C Retail,640,14.8,100,India
+Bata Franchise,D2C Retail,1240,12.6,200,India
+Croma Retail,Electronics Retail,14200,4.8,2400,India
+Vijay Sales,Electronics Retail,12400,4.6,1800,India
+Reliance Digital,Electronics Retail,28400,3.8,4800,India
+Poorvika Mobiles,Electronics Cretail,6840,4.2,1200,India
+Sangeetha Mobiles,Electronics Retail,8640,4.6,1400,India
+UniverCell,Electronics Retail,4840,3.8,800,India
+Big C Mobiles,Electronics Retail,3640,4.2,600,India
+Cellecor Gadgets,Electronics Retail,1240,6.4,200,India
+Lot Mobiles,Electronics Retail,2840,4.8,400,India
+Hotspot Telecom,Electronics Retail,1840,4.4,200,India
+D-Mart (Avenue Supermarts),Retail,52400,8.4,2400,India
+Future Retail,Retail,28400,-12.4,28400,India
+Spencer's Retail,Retail,8640,2.4,4800,India
+More Retail,Retail,14200,2.8,6800,India
+Star Bazaar,Retail,6840,3.2,2400,India
+Spar Hypermarket,Retail,8640,3.8,2800,India
+Easyday,Retail,4840,2.4,1800,India
+Vishal Mega Mart,Retail,12400,4.6,3200,India
+V2 Retail,Retail,2840,6.4,800,India
+Metro Cash & Carry,Retail,14200,4.8,2400,India
+Landmark Group India,Retail,8640,6.4,2800,India
+Shoppers Stop,Retail,4840,4.6,1200,India
+Lifestyle International,Retail,12400,6.8,2400,India
+Pantaloons,Retail,18400,6.4,4800,India
+Westside,Retail,6840,8.4,800,India
+Max Fashion,Retail,14200,8.6,1800,India
+Reliance Trends,Retail,18400,8.4,2800,India
+FBB (Fashion at Big Bazaar),Retail,8640,6.4,2400,India
+Central (Future Group),Retail,12400,4.8,6800,India
+Brand Factory,Retail,6840,6.4,2400,India
+Fabindia,Retail,2840,12.4,800,India
+W for Woman,Retail,3640,14.6,400,India
+AND India,Retail,2840,12.8,400,India
+Global Desi,Retail,1840,10.4,200,India
+Biba India,Retail,2640,12.6,400,India
+Aurelia,Retail,1840,14.4,200,India
+Soch Apparels,Retail,1640,12.8,200,India
+Ethnix by Raymond,Retail,1240,14.6,200,India
+Kalyan Jewellers,Retail,18400,6.8,8400,India
+Titan Tanishq,Retail,42400,11.8,1200,India
+PC Jeweller,Retail,4840,6.4,4800,India
+Malabar Gold,Retail,58400,4.8,8400,India
+Joyalukkas,Retail,28400,5.6,6800,India
+Senco Gold,Retail,12400,5.8,3200,India
+PNG Jewellers,Retail,8640,5.4,2400,India
+TBZ,Retail,4840,5.2,1800,India
+Tribhovandas Bhimji Zaveri,Retail,6840,5.6,2800,India
+Orra Fine Jewellery,Retail,2840,6.4,1200,India
+Khimji Jewellers,Retail,1840,5.8,800,India
+Bhima Jewellers,Retail,3640,5.4,1600,India
+Grt Jewellers,Retail,4840,5.6,2400,India
+Saravana Stores,Retail,14200,8.4,2400,India
+Pothys,Retail,4840,8.6,800,India
+RMKV Silks,Retail,2640,10.4,400,India
+Nalli Silks,Retail,3840,9.8,600,India
+Kumaran Silks,Retail,2240,10.2,400,India
+Sundari Silks,Retail,1640,9.6,200,India
+Kanchipuram Silk House,Retail,1240,10.8,200,India
+Jayachandran Textiles,Retail,840,10.4,200,India
+Coimbatore Silks,Retail,640,10.6,100,India
+KSR Group,Retail,1240,9.8,200,India
+Parivar Silks,Retail,480,10.4,100,India
+IIFL Wealth,Wealth Management,8640,48.4,1200,India
+Nuvama Private,Wealth Management,4840,44.6,800,India
+Avendus Wealth,Wealth Management,2840,46.8,400,India
+Kotak Private Banking,Wealth Management,12400,52.4,0,India
+Axis Private Banking,Wealth Management,6840,48.6,0,India
+HDFC Private Banking,Wealth Management,14200,54.6,0,India
+ICICI Private Banking,Wealth Management,12400,52.8,0,India
+Julius Baer India,Wealth Management,4840,58.4,0,India
+Credit Suisse India,Wealth Management,3640,56.8,0,India
+BNP Paribas Wealth,Wealth Management,4240,54.6,0,India
+Waterfield Advisors,Wealth Management,840,48.4,0,India
+Sanctum Wealth,Wealth Management,1240,46.8,0,India
+ASK Wealth,Wealth Management,2640,52.4,0,India
+Centrum Wealth,Wealth Management,1840,44.6,400,India
+Karvy Wealth,Wealth Management,2240,42.8,800,India
