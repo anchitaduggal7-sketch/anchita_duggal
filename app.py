@@ -176,84 +176,108 @@ tab_dashboard, tab_analytics, tab_methodology = st.tabs(["📋 Target Leaderboar
 
 with tab_dashboard:
     col_lead, col_detail = st.columns([2, 1])
-    
+
     with col_lead:
-            search_term = st.text_input(
-        "🔎 Search Company",
-        placeholder="Type a company name..."
-    )
 
-    display_df = filtered_df.copy()
+        search_term = st.text_input(
+            "🔎 Search Company",
+            placeholder="Type a company name..."
+        )
 
-    if search_term:
-        display_df = display_df[
-            display_df["Company"].str.contains(
-                search_term,
-                case=False,
-                na=False
-            )
+        display_df = filtered_df.copy()
+
+        if search_term:
+            display_df = display_df[
+                display_df["Company"].str.contains(
+                    search_term,
+                    case=False,
+                    na=False
+                )
+            ]
+
+        st.subheader(
+            f"High-Score Corporate Targets ({len(display_df):,} Matches)"
+        )
+
+        display_cols = [
+            "Company",
+            "Industry",
+            "Revenue_Cr",
+            "EBITDA_Margin",
+            "Debt_Cr",
+            "EV_EBITDA",
+            "Score",
+            "Strategic_Tag"
         ]
 
-    st.subheader(
-        f"High-Score Corporate Targets ({len(display_df):,} Matches)"
-    )
+        selected_row = st.dataframe(
+            display_df.head(top_n)[display_cols],
+            use_container_width=True,
+            hide_index=True,
+            on_select="rerun",
+            selection_mode="single-row"
+        )
 
-    display_cols = [
-        "Company",
-        "Industry",
-        "Revenue_Cr",
-        "EBITDA_Margin",
-        "Debt_Cr",
-        "EV_EBITDA",
-        "Score",
-        "Strategic_Tag"
-    ]
+        csv_data = display_df.to_csv(index=False).encode("utf-8")
 
-    selected_row = st.dataframe(
-        display_df.head(top_n)[display_cols],
-        use_container_width=True,
-        hide_index=True,
-        on_select="rerun",
-        selection_mode="single-row"
-    )
-        
-        csv_data = filtered_df.to_csv(index=False).encode('utf-8')
         st.download_button(
             label="📥 Export Screened Results Pipeline (.CSV)",
             data=csv_data,
             file_name="ma_target_screener_output.csv",
             mime="text/csv"
         )
-        
+
     with col_detail:
         st.subheader("🎯 Target Profile Inspection")
+
         selection_state = selected_row.get("selection", {})
         selected_rows_list = selection_state.get("rows", [])
-        
+
         if len(selected_rows_list) > 0:
             target_index = selected_rows_list[0]
             target_record = display_df.head(top_n).iloc[target_index]
-            
+
             st.markdown(f"### **{target_record['Company']}**")
             st.markdown(f"**Sector Cluster:** `{target_record['Industry']}`")
-            st.markdown(f"**Strategic Priority Classification:** {target_record['Strategic_Tag']}")
+            st.markdown(
+                f"**Strategic Priority Classification:** {target_record['Strategic_Tag']}"
+            )
+
             st.divider()
-            
+
             c1, c2 = st.columns(2)
-            c1.metric("Revenue Volume", f"₹{target_record['Revenue_Cr']:,} Cr")
-            c2.metric("Operating Margin", f"{target_record['EBITDA_Margin']}%")
-            
+            c1.metric(
+                "Revenue Volume",
+                f"₹{target_record['Revenue_Cr']:,} Cr"
+            )
+            c2.metric(
+                "Operating Margin",
+                f"{target_record['EBITDA_Margin']}%"
+            )
+
             c3, c4 = st.columns(2)
-            c3.metric("Total Debt Load", f"₹{target_record['Debt_Cr']:,} Cr")
-            
-            ev_ebitda_val = target_record['EV_EBITDA']
-            ev_display = f"{ev_ebitda_val}x" if not pd.isna(ev_ebitda_val) else "N/A (Negative Yield)"
+            c3.metric(
+                "Total Debt Load",
+                f"₹{target_record['Debt_Cr']:,} Cr"
+            )
+
+            ev_ebitda_val = target_record["EV_EBITDA"]
+
+            ev_display = (
+                f"{ev_ebitda_val}x"
+                if not pd.isna(ev_ebitda_val)
+                else "N/A (Negative Yield)"
+            )
+
             c4.metric("EV / EBITDA", ev_display)
-            
+
             st.write("**Proprietary Screening Health Score Match**")
-            st.progress(int(target_record['Score'] / 100))
+            st.progress(int(target_record["Score"] / 100))
+
         else:
-            st.info("💡 Select any row on the left to view a detailed target profile.")
+            st.info(
+                "💡 Select any row on the left to view a detailed target profile."
+            )
 
 with tab_analytics:
     st.subheader("Data Distribution & Strategic Clustering Graphs")
