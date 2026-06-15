@@ -178,26 +178,45 @@ with tab_dashboard:
     col_lead, col_detail = st.columns([2, 1])
     
     with col_lead:
-        search_term = st.text_input(
-    "🔎 Search Company",
-    placeholder="Type a company name..."
-)
+            search_term = st.text_input(
+        "🔎 Search Company",
+        placeholder="Type a company name..."
+    )
 
-display_df = filtered_df.copy()
+    display_df = filtered_df.copy()
 
-if search_term:
-    display_df = display_df[
-        display_df["Company"].str.contains(search_term, case=False, na=False)
+    if search_term:
+        display_df = display_df[
+            display_df["Company"].str.contains(
+                search_term,
+                case=False,
+                na=False
+            )
+        ]
+
+    st.subheader(
+        f"High-Score Corporate Targets ({len(display_df):,} Matches)"
+    )
+
+    display_cols = [
+        "Company",
+        "Industry",
+        "Revenue_Cr",
+        "EBITDA_Margin",
+        "Debt_Cr",
+        "EV_EBITDA",
+        "Score",
+        "Strategic_Tag"
     ]
-        st.subheader(f"High-Score Corporate Targets ({len(display_df):,} Matches)")
-        display_cols = ["Company", "Industry", "Revenue_Cr", "EBITDA_Margin", "Debt_Cr", "EV_EBITDA", "Score", "Strategic_Tag"]
-        selected_row = st.dataframe(
-            display_df.head(top_n)[display_cols],
-            use_container_width=True,
-            hide_index=True,
-            on_select="rerun",
-            selection_mode="single-row"
-        )
+
+    selected_row = st.dataframe(
+        display_df.head(top_n)[display_cols],
+        use_container_width=True,
+        hide_index=True,
+        on_select="rerun",
+        selection_mode="single-row"
+    )
+        
         csv_data = filtered_df.to_csv(index=False).encode('utf-8')
         st.download_button(
             label="📥 Export Screened Results Pipeline (.CSV)",
