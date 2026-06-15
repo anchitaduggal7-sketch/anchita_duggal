@@ -178,10 +178,21 @@ with tab_dashboard:
     col_lead, col_detail = st.columns([2, 1])
     
     with col_lead:
-        st.subheader("High-Score Corporate Targets")
+        search_term = st.text_input(
+    "🔎 Search Company",
+    placeholder="Type a company name..."
+)
+
+display_df = filtered_df.copy()
+
+if search_term:
+    display_df = display_df[
+        display_df["Company"].str.contains(search_term, case=False, na=False)
+    ]
+        st.subheader(f"High-Score Corporate Targets ({len(display_df):,} Matches)")
         display_cols = ["Company", "Industry", "Revenue_Cr", "EBITDA_Margin", "Debt_Cr", "EV_EBITDA", "Score", "Strategic_Tag"]
         selected_row = st.dataframe(
-            filtered_df.head(top_n)[display_cols],
+            display_df.head(top_n)[display_cols],
             use_container_width=True,
             hide_index=True,
             on_select="rerun",
@@ -202,7 +213,7 @@ with tab_dashboard:
         
         if len(selected_rows_list) > 0:
             target_index = selected_rows_list[0]
-            target_record = filtered_df.head(top_n).iloc[target_index]
+            target_record = display_df.head(top_n).iloc[target_index]
             
             st.markdown(f"### **{target_record['Company']}**")
             st.markdown(f"**Sector Cluster:** `{target_record['Industry']}`")
